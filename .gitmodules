@@ -1,0 +1,3 @@
+[submodule "tla/tla-template"]
+	path = tla/tla-template
+	url = https://github.com/pthrr/tla-template
